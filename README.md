@@ -34,4 +34,4 @@ Loop {
 
 
 ### 演示
-<div align=center><img src="https://github.com/bjc5233/ahk-GNote2OneNote/raw/master/resources/demo.gif"/></div>
+<div align=center><img height="473" width="644" src="https://github.com/bjc5233/ahk-GNote2OneNote/raw/master/resources/demo.gif"/></div>
